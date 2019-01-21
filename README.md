@@ -1,2 +1,16 @@
-# Custom-Asteroids-Extras
-Non-standard configs for Custom  Asteroids
+Custom-Asteroids-Extras
+============
+
+This GitHub repository contains non-standard configs for the [Custom Asteroids](https://github.com/Starstrider42/Custom-Asteroids) mod for Kerbal Space Program.
+These configs are shipped separately from the mod proper to keep them from being tied to the code's release process.
+Each file will say in its header what version(s) of Custom Asteroids it is compatible with.
+
+Installation
+------------
+Each config file can be downloaded separately.
+Place it in a directory of your choice in your KSP install's `GameData` folder.
+The names should be unique, so the files can go in `GameData/CustomAsteroids/config/` without conflicting with other downloads.
+
+License
+------------
+Custom Asteroids is released under the MIT License. A copy of the license can be found in the file `LICENSE` in the mod directory, or online at http://opensource.org/licenses/MIT.
