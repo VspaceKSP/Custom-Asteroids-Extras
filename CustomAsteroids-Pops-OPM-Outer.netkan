@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "CustomAsteroids-Pops-OPM-Outer",
+    "name": "Custom Asteroids (unofficial OPM config)",
+    "abstract": "Adds Kentaurs and trans-Neidonian objects",
+    "$kref": "#/ckan/github/Starstrider42/Custom-Asteroids-Extras/asset_match/Trans-Neidon.cfg",
+    "resources": {
+        "bugtracker": "https://github.com/Starstrider42/Custom-Asteroids-Extras/issues",
+        "license": "MIT",
+    },
+    "ksp_version_min": "1.4.0",
+    "depends": [
+        {
+            "name": "CustomAsteroids",
+            "min_version": "v1.6.0",
+            "max_version": "v1.99.99",
+            "comment": "Requires localization support.",
+        },
+        {
+            "name": "OuterPlanetsMod",
+        }
+    ],
+    "provides": [ "CustomAsteroids-Pops" ],
+    "install": [
+        {
+            "file": "Trans-Neidon.cfg",
+            "install_to": "GameData/CustomAsteroids/config",
+        }
+    ],
+    "x_maintained_by": "Starstrider42",
+}
