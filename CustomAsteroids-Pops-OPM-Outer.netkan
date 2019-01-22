@@ -7,9 +7,9 @@
     "x_netkan_github": {
         "use_source_archive": true
     },
+    "license": "MIT",
     "resources": {
-        "bugtracker": "https://github.com/Starstrider42/Custom-Asteroids-Extras/issues",
-        "license": "MIT"
+        "bugtracker": "https://github.com/Starstrider42/Custom-Asteroids-Extras/issues"
     },
     "ksp_version_min": "1.4.0",
     "depends": [
