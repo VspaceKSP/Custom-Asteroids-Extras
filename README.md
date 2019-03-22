@@ -9,6 +9,7 @@ Contents
 ------------
 
 <dl>
+<dt>OPM-Reconfig.cfg</dt><dd>This config for the Outer Planets Mod replaces the Kopernicus-based asteroid config that OPM ships with. Requires Custom Asteroids 1.6 or later.</dd>
 <dt>Trans-Neidon.cfg</dt><dd>This config for the Outer Planets Mod adds outer solar system bodies analogous to Centaurs, Kuiper belt objects, and periodic comets. Requires Custom Asteroids 1.6 or later.</dd>
 </dl>
 
